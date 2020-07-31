@@ -110,3 +110,53 @@ button {
     transform: rotate(360deg);
   }
 }
+
+@media screen and (max-width:600px){
+  img {
+    height: 90vh;
+    max-height: 90vh;
+    width: 70vw;
+    max-width: 70vw;
+    margin-right: 10vw;
+  }
+
+  .quote {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: 90vw;
+    margin-bottom: 10px;
+  }
+
+  .image-quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  button {
+    all: unset;
+    /* width: 90vw; */
+    background-color: red;
+    width: 90vw;
+    padding: 10px 1vw;
+    margin-bottom: 20px;
+    /* border: solid red; */
+    /* color: white; */
+    border-color: red;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  .center-quote {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    /* align-items: center; */
+    /* border: solid green; */
+  
+  }
+}
