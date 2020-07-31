@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SimpsonApi/static/css/main.b0b1ef0e.chunk.css",
+    "main.css": "/SimpsonApi/static/css/main.4a08aac4.chunk.css",
     "main.js": "/SimpsonApi/static/js/main.fa1247ba.chunk.js",
     "main.js.map": "/SimpsonApi/static/js/main.fa1247ba.chunk.js.map",
     "runtime-main.js": "/SimpsonApi/static/js/runtime-main.bbc7aa5f.js",
@@ -8,15 +8,15 @@
     "static/js/2.4a950b34.chunk.js": "/SimpsonApi/static/js/2.4a950b34.chunk.js",
     "static/js/2.4a950b34.chunk.js.map": "/SimpsonApi/static/js/2.4a950b34.chunk.js.map",
     "index.html": "/SimpsonApi/index.html",
-    "precache-manifest.299e3db778b34c9dff975a10bae4183b.js": "/SimpsonApi/precache-manifest.299e3db778b34c9dff975a10bae4183b.js",
+    "precache-manifest.119b30f4c715c8a7118cd7508956f0d2.js": "/SimpsonApi/precache-manifest.119b30f4c715c8a7118cd7508956f0d2.js",
     "service-worker.js": "/SimpsonApi/service-worker.js",
-    "static/css/main.b0b1ef0e.chunk.css.map": "/SimpsonApi/static/css/main.b0b1ef0e.chunk.css.map",
+    "static/css/main.4a08aac4.chunk.css.map": "/SimpsonApi/static/css/main.4a08aac4.chunk.css.map",
     "static/js/2.4a950b34.chunk.js.LICENSE.txt": "/SimpsonApi/static/js/2.4a950b34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bbc7aa5f.js",
     "static/js/2.4a950b34.chunk.js",
-    "static/css/main.b0b1ef0e.chunk.css",
+    "static/css/main.4a08aac4.chunk.css",
     "static/js/main.fa1247ba.chunk.js"
   ]
 }
