@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04be57105bff19999d10b5008081315a",
+    "revision": "ea1afd2ae3951fc8a98b07ebc9f56554",
     "url": "/SimpsonApi/index.html"
   },
   {
-    "revision": "5c7374533f0649fd7780",
-    "url": "/SimpsonApi/static/css/main.d30652a7.chunk.css"
+    "revision": "9bce2d0604fc35b3a9ea",
+    "url": "/SimpsonApi/static/css/main.1108a3f4.chunk.css"
   },
   {
     "revision": "26131dc4c49e0825b591",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SimpsonApi/static/js/2.4a950b34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c7374533f0649fd7780",
+    "revision": "9bce2d0604fc35b3a9ea",
     "url": "/SimpsonApi/static/js/main.fa1247ba.chunk.js"
   },
   {
