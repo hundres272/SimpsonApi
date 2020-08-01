@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea1afd2ae3951fc8a98b07ebc9f56554",
+    "revision": "f2f05a25664bc30029f028be78e110d3",
     "url": "/SimpsonApi/index.html"
   },
   {
