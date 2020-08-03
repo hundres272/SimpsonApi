@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SimpsonApi/static/css/main.805acd4e.chunk.css",
-    "main.js": "/SimpsonApi/static/js/main.d7810f4e.chunk.js",
-    "main.js.map": "/SimpsonApi/static/js/main.d7810f4e.chunk.js.map",
+    "main.css": "/SimpsonApi/static/css/main.4c2f1a05.chunk.css",
+    "main.js": "/SimpsonApi/static/js/main.ae8e547c.chunk.js",
+    "main.js.map": "/SimpsonApi/static/js/main.ae8e547c.chunk.js.map",
     "runtime-main.js": "/SimpsonApi/static/js/runtime-main.bbc7aa5f.js",
     "runtime-main.js.map": "/SimpsonApi/static/js/runtime-main.bbc7aa5f.js.map",
     "static/js/2.4a950b34.chunk.js": "/SimpsonApi/static/js/2.4a950b34.chunk.js",
     "static/js/2.4a950b34.chunk.js.map": "/SimpsonApi/static/js/2.4a950b34.chunk.js.map",
     "index.html": "/SimpsonApi/index.html",
-    "precache-manifest.8982b424f8a49026408d1f0ba508508a.js": "/SimpsonApi/precache-manifest.8982b424f8a49026408d1f0ba508508a.js",
+    "precache-manifest.136f6a678210b6bef48bba9b223f1875.js": "/SimpsonApi/precache-manifest.136f6a678210b6bef48bba9b223f1875.js",
     "service-worker.js": "/SimpsonApi/service-worker.js",
-    "static/css/main.805acd4e.chunk.css.map": "/SimpsonApi/static/css/main.805acd4e.chunk.css.map",
+    "static/css/main.4c2f1a05.chunk.css.map": "/SimpsonApi/static/css/main.4c2f1a05.chunk.css.map",
     "static/js/2.4a950b34.chunk.js.LICENSE.txt": "/SimpsonApi/static/js/2.4a950b34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bbc7aa5f.js",
     "static/js/2.4a950b34.chunk.js",
-    "static/css/main.805acd4e.chunk.css",
-    "static/js/main.d7810f4e.chunk.js"
+    "static/css/main.4c2f1a05.chunk.css",
+    "static/js/main.ae8e547c.chunk.js"
   ]
 }
