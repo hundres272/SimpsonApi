@@ -6,7 +6,12 @@ function Character ({quote,character,image}) {
             <div className='title-Character'>
                 <h2>{character}</h2>
             </div>
-            <div className='image-quote'> 
+            <div className='image-quote'>
+                <div className="text-vert">
+                    <p>
+                        {character}
+                    </p>
+                </div>
                 <img src={image} alt={character} />
                 <div className='quote'>
                     <div className='center-quote'>

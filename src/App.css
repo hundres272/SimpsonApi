@@ -24,6 +24,7 @@ img {
   max-height: 70vh;
   width: 25vw;
   max-width: 25vw;
+  min-width: 25vw;
   margin-right: 10vw;
 }
 
@@ -79,6 +80,28 @@ button {
   background-color: salmon;
   /* border-color: salmon; */
   color: white;
+}
+
+.text-vert {
+  height: 70vh;
+  width: 5vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  margin-right: 40px;
+}
+
+.text-vert p {
+  width: 70vh;
+  transform: rotate(270deg);
+  font-size: calc(1px + 7vh);
+  padding: 0;
+  margin: 0;
+  opacity: 0.1;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -160,5 +183,9 @@ button {
     /* align-items: center; */
     /* border: solid green; */
   
+  }
+
+  .text-vert {
+    display: none;
   }
 }
